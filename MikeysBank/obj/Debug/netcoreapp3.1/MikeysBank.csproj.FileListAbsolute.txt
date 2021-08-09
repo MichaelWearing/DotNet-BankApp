@@ -1,0 +1,17 @@
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\bin\Debug\netcoreapp3.1\MikeysBank.exe
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\bin\Debug\netcoreapp3.1\MikeysBank.deps.json
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\bin\Debug\netcoreapp3.1\MikeysBank.runtimeconfig.json
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\bin\Debug\netcoreapp3.1\MikeysBank.runtimeconfig.dev.json
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\bin\Debug\netcoreapp3.1\MikeysBank.dll
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\bin\Debug\netcoreapp3.1\MikeysBank.pdb
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\bin\Debug\netcoreapp3.1\BankyStuffLibrary.dll
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\bin\Debug\netcoreapp3.1\BankyStuffLibrary.pdb
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\obj\Debug\netcoreapp3.1\MikeysBank.csproj.AssemblyReference.cache
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\obj\Debug\netcoreapp3.1\MikeysBank.AssemblyInfoInputs.cache
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\obj\Debug\netcoreapp3.1\MikeysBank.AssemblyInfo.cs
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\obj\Debug\netcoreapp3.1\MikeysBank.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\obj\Debug\netcoreapp3.1\MikeysBank.csproj.CopyComplete
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\obj\Debug\netcoreapp3.1\MikeysBank.dll
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\obj\Debug\netcoreapp3.1\MikeysBank.pdb
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\obj\Debug\netcoreapp3.1\MikeysBank.genruntimeconfig.cache
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\bin\Debug\netcoreapp3.1\Humanizer.dll

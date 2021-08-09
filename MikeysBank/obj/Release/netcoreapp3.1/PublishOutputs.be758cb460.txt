@@ -1,0 +1,8 @@
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\bin\Release\netcoreapp3.1\publish\MikeysBank.exe
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\bin\Release\netcoreapp3.1\publish\MikeysBank.dll
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\bin\Release\netcoreapp3.1\publish\MikeysBank.deps.json
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\bin\Release\netcoreapp3.1\publish\MikeysBank.runtimeconfig.json
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\bin\Release\netcoreapp3.1\publish\MikeysBank.pdb
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\bin\Release\netcoreapp3.1\publish\Humanizer.dll
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\bin\Release\netcoreapp3.1\publish\BankyStuffLibrary.dll
+C:\Users\Mikey\source\repos\MikeysBank\MikeysBank\bin\Release\netcoreapp3.1\publish\BankyStuffLibrary.pdb

@@ -1,0 +1,9 @@
+C:\Users\Mikey\source\repos\MikeysBank\BankyStuffLibrary\bin\Debug\netcoreapp3.1\BankyStuffLibrary.deps.json
+C:\Users\Mikey\source\repos\MikeysBank\BankyStuffLibrary\bin\Debug\netcoreapp3.1\BankyStuffLibrary.dll
+C:\Users\Mikey\source\repos\MikeysBank\BankyStuffLibrary\bin\Debug\netcoreapp3.1\BankyStuffLibrary.pdb
+C:\Users\Mikey\source\repos\MikeysBank\BankyStuffLibrary\obj\Debug\netcoreapp3.1\BankyStuffLibrary.csproj.AssemblyReference.cache
+C:\Users\Mikey\source\repos\MikeysBank\BankyStuffLibrary\obj\Debug\netcoreapp3.1\BankyStuffLibrary.AssemblyInfoInputs.cache
+C:\Users\Mikey\source\repos\MikeysBank\BankyStuffLibrary\obj\Debug\netcoreapp3.1\BankyStuffLibrary.AssemblyInfo.cs
+C:\Users\Mikey\source\repos\MikeysBank\BankyStuffLibrary\obj\Debug\netcoreapp3.1\BankyStuffLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mikey\source\repos\MikeysBank\BankyStuffLibrary\obj\Debug\netcoreapp3.1\BankyStuffLibrary.dll
+C:\Users\Mikey\source\repos\MikeysBank\BankyStuffLibrary\obj\Debug\netcoreapp3.1\BankyStuffLibrary.pdb
